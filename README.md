@@ -1,6 +1,6 @@
 # TFIDF-PCA-KMeans
 ## News Articles Clustering and Visualization
-This Python script performs clustering on news articles related to AI using K-means clustering after transforming the text data into TFIDF vectors and reducing dimensionality with PCA. The optimal number of clusters is determined using the elbow method, and the results are visualized with scatter plots.
+This Jupyter Notebook script performs clustering on news articles related to AI using K-means clustering after transforming the text data into TFIDF vectors and reducing dimensionality with PCA. The optimal number of clusters is determined using the elbow method, and the results are visualized with scatter plots.
 
 
 ## Main Workflow
